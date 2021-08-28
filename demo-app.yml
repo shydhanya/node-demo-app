@@ -40,4 +40,4 @@ spec:
     app: demo-app
   type: NodePort
 
-# trigger test with port 31000
+# trigger test with port 310001
